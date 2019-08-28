@@ -1,34 +1,30 @@
 Title: Consulting Services
-Date: 2018-07-15
+Date: 2019-08-28
 URL:
 save_as: index.html
 
-I am prepared to tackle any challenge - please contact me to discuss your requirements.
 
-Below are some examples of practical problems I can help with.
+I am a dedicated data expert and a persistent problem solver.
 
+Please [contact me]({filename}/pages/contact.md) to discuss your requirements.
 
-### Clinical Research Data Management
-
-![clipboard-list]({filename}/icons/clipboard-list-solid.svg){:class="fa-list-icon"} Design Case Report Forms (CRFs) or Surveys for collecting data.
-
-![check-circle]({filename}/icons/check-circle-regular.svg){:class="fa-list-icon"} Design validation rules, scripts, or procedures for cleaning data.
-
-![hand-paper]({filename}/icons/hand-paper-regular.svg){:class="fa-list-icon"} Implement web or mobile systems for flexible and efficient data collection.
-
-![briefcase]({filename}/icons/briefcase-solid.svg){:class="fa-list-icon"} Implement validated, secure systems for reliability and regulatory compliance.
-
-![map-signs]({filename}/icons/map-signs-solid.svg){:class="fa-list-icon"} Advise on system procurement to help translate jargon and select a fit-for-purpose solution.
+Below are some examples of tasks I can help with.
 
 
 ### Data Processing and Analysis
 
-![project-diagram]({filename}/icons/project-diagram-solid.svg){:class="fa-list-icon"} Integrate multiple systems, to make them work together or act as one.
+![chart-line]({static}/icons/chart-line-solid.svg){:class="fa-list-icon"} Implement complex reports or analytics to keep track of projects or identify patterns.
 
-![cubes]({filename}/icons/cubes-solid.svg){:class="fa-list-icon"} Establish ETL pipelines for efficiently and accurately wrangling data.
+![cubes]({static}/icons/cubes-solid.svg){:class="fa-list-icon"} Implement ETL pipelines to efficiently and accurately combine and clean data.
 
-![chart-line]({filename}/icons/chart-line-solid.svg){:class="fa-list-icon"} Implement metrics reports or listings for keeping track of projects and progress.
+![database]({static}/icons/database-solid.svg){:class="fa-list-icon"} Assist with data modelling or PostgreSQL configuration to make the most of your data.
 
-![puzzle-piece]({filename}/icons/puzzle-piece-solid.svg){:class="fa-list-icon"} Implement complex or precise business intelligence reports for making sense of data.
 
-![database]({filename}/icons/database-solid.svg){:class="fa-list-icon"} Advise on PostgreSQL usage and configuration to make the most of features and resources.
+### Clinical Research Data Management
+
+![clipboard-list]({static}/icons/clipboard-list-solid.svg){:class="fa-list-icon"} Design Case Report Forms (CRFs) or Surveys to collect valid and clean data.
+
+![hand-paper]({static}/icons/hand-paper-regular.svg){:class="fa-list-icon"} Implement web or mobile systems for flexible, efficient, and validated data collection.
+
+![map-signs]({static}/icons/map-signs-solid.svg){:class="fa-list-icon"} Assist with solution architecture - systems or processes to meet study / group data needs.
+

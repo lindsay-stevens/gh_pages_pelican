@@ -1,5 +1,17 @@
 Title: Work History
-Date: 2018-07-15
+Date: 2019-08-28
+
+
+## Principal Consultant
+- Organisation: Lindsay Stevens Pty Ltd
+- Department: Consultant
+- Reporting to: Self
+- Duration: 2017-01 to present (2 years, 8 months)
+
+**Responsibilities**
+
+- Fulfil client requirements
+- Manage business accounts and invoicing
 
 
 ## Solutions Engineer
@@ -7,14 +19,22 @@ Date: 2018-07-15
 - Organisation: OpenClinica LLC
 - Department: Product and Service Development / Customer Support 
 - Reporting to: OpenClinica CEO
-- Duration: 2017-08 to present (11 months)
+- Duration: 2017-08 to present (2 years)
 
 
 **Responsibilities**
 
-- Develop a new, enhanced ETL and self-serve capable reporting and analytics solution
-- Potential customer demonstrations of the reporting module
-- Technical support
+- Develop a sophisticated reporting and analytics solution (OpenClinica Insight), including:
+  - Dynamically generated data warehouse, using Python and SQL for ETL
+  - Self-serve capabilities for user visualisations and analysis
+  - Application support, deployments, demonstrations, and training.
+- Provide advice and support for data-related issues.
+
+
+**Achievements**
+
+- Deployed Insight to over 20 customers and counting.
+- Implemented numerous complex customer-specific reports.
 
 
 ## Systems Analyst / Architect
@@ -30,6 +50,11 @@ Date: 2018-07-15
 - System support and vendor management for SRI data systems, including the Clinical Trials portal and Grants Management System
 - Identify and oversee or implement system enhancements, changes or upgrades to SRI data systems
 - Implement tools and processes for reporting to meet diverse stakeholder requirements, leveraging appropriate tools such as SQL, PowerShell, R, Qlik
+
+**Achievements**
+
+- Implemented grants history report encapsulating complex business processes and rules.
+- Established reproducible reporting system and processes for grants tracking system.
 
 
 ## Solutions Engineer
@@ -55,9 +80,8 @@ Date: 2018-07-15
 
 **Responsibilities**
 
-- System support for VHCRP data systems, including OpenClinica and mobile data collection
-- Implement data collection and validation systems for projects from the VHCRP
-- Implement tools and processes for reporting, mobile device preparation and management
+- Implement and support data collection and validation systems for clinical research projects at the VHCRP
+- Implement and support tools and processes for reporting, mobile device preparation and management
 
 
 **Achievements**
@@ -88,8 +112,7 @@ Date: 2018-07-15
 **Responsibilities**
 
 - Implement data collection and validation systems for CTC projects
-- Train project staff in data management with OpenClinica and TeleForm
-- User management and system support
+- Train and support project staff in data management with OpenClinica and TeleForm
 
 
 **Achievements**

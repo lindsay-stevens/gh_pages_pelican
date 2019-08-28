@@ -3,21 +3,38 @@ Date: 2018-07-15
 
 I am a clinical trials data management specialist with over 10 years of experience. In this time I have:
 
-- Worked with and coordinated numerous multi-centre oncology clinical research studies,
-- Developed a variety of data collection and validation systems for clinical research,
 - Implemented sophisticated data processing and reporting tools, projects, and systems.
+- Developed a variety of data collection and validation systems for clinical research.
+- Worked with and coordinated numerous multi-centre oncology clinical research studies.
+
+I am interested in helping researchers efficiently collect accurate and complete data, and to support their decision-making processes through data systems, analysis, analytics, and visualisations. I am uniquely positioned to do so, with extensive clinical research domain knowledge as well as strong technical skills.
+
+I am motivated by the participants and clinical staff that collaborate to advance medical science through research.
 
 Looking forward, I am studying a Master of Biostatistics to further broaden the range of solutions and advice I can offer.
 
-I am motivated by the dedicated medical professionals and participants that collaborate to advance medical science through research.
 
-I am interested in helping researchers efficiently collect accurate and complete data, and to support their decision-making processes.
+## Technical Skills
+
+I am familiar with the following technologies.
+
+- Programming languages:
+    - Advanced: SQL, Python, PL/PGSQL, Stata, VBA/VBScript, and XSLT
+    - Intermediate: Clojure, R, PHP, JavaScript, SAS, Powershell/CMD, Java, C#, C
+- Environments:
+    - Advanced: Windows, CentOS
+    - Intermediate: Windows Server, Android, Ubuntu, Docker
+- Other (Advanced): Microsoft Access, Microsoft Excel
+- Databases:
+    - Advanced: PostgreSQL
+    - Intermediate: SQLite, Microsoft SQL Server, Oracle
+- Development tools: Git, Intellij IDEA, Notepad++, Trello, TFS, SSMS, RStudio
 
 
-# Skills
+My GitHub profile contains examples of projects where permission was given to share the code.
 
 
-## Clinical Trials Data Management
+## Clinical Trials Data Management Skills
 
 I am familiar with the following compliance aspects of trials:
 
@@ -38,21 +55,4 @@ I am familiar with the following off-the-shelf data systems useful for trials:
     - LabKey: a system for laboratory sample management and annotation
 
 
-## Technical
 
-I am familiar with the following technologies.
-
-- Programming languages:
-    - Advanced: SQL, Python, PL/PGSQL, Stata, VBA/VBScript, and XSLT
-    - Intermediate: PHP, JavaScript, SAS, Powershell/CMD, R, Java, and C#
-- Environments:
-    - Advanced: Windows, Centos, Windows Server, Android 4.4 and up
-    - Intermediate: Ubuntu, Docker, Google Suite for Education
-- Other (Advanced): Microsoft Access, Microsoft Excel
-- Servers:
-    - Advanced: PostgreSQL 8.4 and up
-    - Intermediate: Microsoft SQL Server 2012, Apache 2.4, Tomcat 6 and up, Nginx, CherryPy
-- Development tools: Git, Intellij IDEA, Notepad++, Trello, TFS, SSMS, RStudio
-
-
-My GitHub profile contains examples of projects where permission was given to share the code.
