@@ -1,5 +1,5 @@
 Title: Education
-Date: 2018-07-15
+Date: 2020-01-27
 
 
 ## Master of Biostatistics
@@ -11,13 +11,15 @@ Date: 2018-07-15
 
 **Subjects Remaining**
 
-- Bioinformatics and Statistical Genomics
+
 - Workplace Portfolio Project - Part B
 
 
 **Subjects Completed**
 
+- Bioinformatics and Statistical Genomics
 - Clinical Biostatistics
+- Design of Randomised Controlled Trials (RPL)
 - Workplace Portfolio Project - Part A
 - Longitudinal and Correlated Data
 - Categorical Data and Generalised Linear Models

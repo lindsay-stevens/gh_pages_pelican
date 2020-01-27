@@ -1,17 +1,13 @@
 Title: About
-Date: 2018-07-15
+Date: 2020-01-27
 
-I am a clinical trials data management specialist with over 10 years of experience. In this time I have:
+I am a clinical trials data management specialist with over 11 years of experience. In this time I have implemented many high-value data management and reporting systems, using a wide range of technologies, working with diverse stakeholders.
 
-- Implemented sophisticated data processing and reporting tools, projects, and systems.
-- Developed a variety of data collection and validation systems for clinical research.
-- Worked with and coordinated numerous multi-centre oncology clinical research studies.
+In addition to technical expertise I have extensive domain knowledge of clinical research from working in coordination teams, developing components of research-specific software, and pursuing further studies in biostatistics.
 
-I am interested in helping researchers efficiently collect accurate and complete data, and to support their decision-making processes through data systems, analysis, analytics, and visualisations. I am uniquely positioned to do so, with extensive clinical research domain knowledge as well as strong technical skills.
+I am interested in helping researchers efficiently collect accurate and complete data, and to support both practicing clinicians and their patients in their decision-making processes through data systems, analysis, analytics, and visualisations.
 
-I am motivated by the participants and clinical staff that collaborate to advance medical science through research.
-
-Looking forward, I am studying a Master of Biostatistics to further broaden the range of solutions and advice I can offer.
+I am motivated by the participants and clinical staff that collaborate to advance medical science through research. Looking forward, I am studying a Master of Biostatistics to further broaden the range of solutions and assistance I can offer.
 
 
 ## Technical Skills
@@ -19,17 +15,17 @@ Looking forward, I am studying a Master of Biostatistics to further broaden the 
 I am familiar with the following technologies.
 
 - Programming languages:
-    - Advanced: SQL, Python, PL/PGSQL, Stata, VBA/VBScript, and XSLT
-    - Intermediate: Clojure, R, PHP, JavaScript, SAS, Powershell/CMD, Java, C#, C
-- Environments:
-    - Advanced: Windows, CentOS
-    - Intermediate: Windows Server, Android, Ubuntu, Docker
-- Other (Advanced): Microsoft Access, Microsoft Excel
-- Databases:
-    - Advanced: PostgreSQL
-    - Intermediate: SQLite, Microsoft SQL Server, Oracle
-- Development tools: Git, Intellij IDEA, Notepad++, Trello, TFS, SSMS, RStudio
-
+  - Expert: SQL, Python
+  - Advanced: PL/PGSQL, Stata, bash, powershell, VBA/VBScript, XSLT
+  - Intermediate: R, Clojure, SAS, PHP, JavaScript, Java, C#, C
+- Database Systems:
+  - Expert: PostgreSQL
+  - Advanced: SQLite, MS Excel, MS Access 
+  - Intermediate: Microsoft SQL Server, Oracle DBMS
+- Other tools / systems:
+  - Development: Git, Intellij IDEA, Notepad++, vim
+  - OS/Environments: Linux (CentOS, Ubuntu), Docker, Windows (Server, Pro), Android
+  - Project Mgmt: Jira, GitHub, Trello, TFS, RStudio
 
 My GitHub profile contains examples of projects where permission was given to share the code.
 
@@ -38,7 +34,7 @@ My GitHub profile contains examples of projects where permission was given to sh
 
 I am familiar with the following compliance aspects of trials:
 
-- Ethics and regulatory requirements including the TGA guidance on ICH GCP, the NHMRC National Statement, and Australian Privacy Principles
+- Ethics and regulatory requirements including the TGA guidance on ICH GCP, the NHMRC National Statement, Australian Privacy Principles, GDRP
 - Standard regulatory forms including NEAF, SSA, CTN, and CIOMS SAE reports
 - Essential documents preparation from start-up to close-out in Australian and international trials in collaboration with hospitals, academic institutions, CROs, and pharmaceutical companies
 - Project management, site initiations, and delivering training for protocols and data systems
