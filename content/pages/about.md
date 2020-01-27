@@ -15,17 +15,17 @@ I am motivated by the participants and clinical staff that collaborate to advanc
 I am familiar with the following technologies.
 
 - Programming languages:
-  - Expert: SQL, Python
-  - Advanced: PL/PGSQL, Stata, bash, powershell, VBA/VBScript, XSLT
-  - Intermediate: R, Clojure, SAS, PHP, JavaScript, Java, C#, C
+    - Expert: SQL, Python
+    - Advanced: PL/PGSQL, Stata, bash, powershell, VBA/VBScript, XSLT
+    - Intermediate: R, Clojure, SAS, PHP, JavaScript, Java, C#, C
 - Database Systems:
-  - Expert: PostgreSQL
-  - Advanced: SQLite, MS Excel, MS Access 
-  - Intermediate: Microsoft SQL Server, Oracle DBMS
+    - Expert: PostgreSQL
+    - Advanced: SQLite, MS Excel, MS Access 
+    - Intermediate: Microsoft SQL Server, Oracle DBMS
 - Other tools / systems:
-  - Development: Git, Intellij IDEA, Notepad++, vim
-  - OS/Environments: Linux (CentOS, Ubuntu), Docker, Windows (Server, Pro), Android
-  - Project Mgmt: Jira, GitHub, Trello, TFS, RStudio
+    - Development: Git, Intellij IDEA, Notepad++, vim
+    - OS/Environments: Linux (CentOS, Ubuntu), Docker, Windows (Server, Pro), Android
+    - Project Mgmt: Jira, GitHub, Trello, TFS, RStudio
 
 My GitHub profile contains examples of projects where permission was given to share the code.
 
