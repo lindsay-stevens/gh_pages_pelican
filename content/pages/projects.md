@@ -1,5 +1,5 @@
 Title: Projects
-Date: 2020-01-27
+Date: 2020-06-27
 
 
 The following are examples projects where I've applied my skills to deliver solutions.
@@ -14,9 +14,18 @@ The OpenClinica system is underpinned by a form data collection and management o
 The Insight system transforms common data models for ease of reporting, and uses the metadata to dynamically generate data tables corresponding to user-specified form element groups. The transformation process incorporates strict data consistency and validations, and applies data refreshes in a performant way that minimises interruption to end users.
 
 
+## Obstetrics Medical Records Analysis
+
+As part of my Masters of Biostatistics, for a non-coursework project unit I analysed Obstetrics medical records data from the Sydney NSW Local Health District Obstetrics department database and medical record. The project was supervised by a Professor and a post-doc researcher from an epidemilogy unit at the University of Sydney, as well as a statistics Senior Lecturer from Macquarie University. The analysis was conducted with SAS and LaTeX, involved writing custom macros, and produced a detailed report document with data tables, charts, and interpretation.
+
+The analysis described the characteristics of women who had consecutive singleton pregnancies with a term over 20 weeks, comparing those with and without gestational diabetes mellitus (GDM) in the second observed pregnancy. The main exposures of interest were the duration of the inter-pregnancy interval (IPI), and the change in BMI. The main techniques used was logistic regression.
+
+The analysis found that high initial BMI, weight gain, and longer than recommended IPI were associated with increased odds ratios for GDM in the second pregnancy. There was interaction between initial BMI and the BMI change, and initial BMI and IPI, suggesting that the effect of the exposures on GDM is amplified for overweight women. The findings were consistent with GDM diagnosis criteria, and previous research that investigated alternative combinations of these factors.
+
+
 ## Breast Cancer Registry Analysis
 
-As part of my Masters of Biostatistics, I analysed Breast Cancer data from the Auckland Breast Cancer Register. The project was supervised by a statistics Lecturer at Macquarie University, and a breast cancer surgeon at Bankstown-Lidcombe Hospital who had proposed the project. The analysis was conducted with Stata and LaTex, involved writing custom Stata modules, and produced a detailed report document with data tables, charts, and interpretation.
+As part of my Masters of Biostatistics, for a non-coursework project unit I analysed Breast Cancer data from the Auckland Breast Cancer Register. The project was supervised by a statistics Lecturer at Macquarie University, and a breast cancer surgeon at Bankstown-Lidcombe Hospital who had proposed the project. The analysis was conducted with Stata and LaTex, involved writing custom Stata modules, and produced a detailed report document with data tables, charts, and interpretation.
 
 The analysis described differences in characteristics of women with breast cancer detected by screening (comparing by age at initial diagnosis, 45-69 years vs. 70+), and assessed whether baseline variables affected the association between age group and 5-year breast cancer mortality. The main techniques were Pearson Chi-squared and Cox Proportional Hazards models.
 

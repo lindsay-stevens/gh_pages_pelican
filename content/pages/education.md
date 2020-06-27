@@ -1,22 +1,17 @@
 Title: Education
-Date: 2020-01-27
+Date: 2020-06-27
 
 
 ## Master of Biostatistics
 
 - Institution: Macquarie University
-- Graduation: 2020 (Planned)
-- Grade: 3.4/4.0
-
-
-**Subjects Remaining**
-
-
-- Workplace Portfolio Project - Part B
+- Graduation: 2020
+- Grade: GPA 3.455 / 4, wAM 76.27
 
 
 **Subjects Completed**
 
+- Workplace Portfolio Project - Part B
 - Bioinformatics and Statistical Genomics
 - Clinical Biostatistics
 - Design of Randomised Controlled Trials (RPL)
@@ -34,7 +29,7 @@ Date: 2020-01-27
 
 - Institution: Macquarie University
 - Graduation: 2010
-- Grade: GPA 3.5/4.0
+- Grade: GPA 3.507 / 4, WAM 77.78
 
 
 **Subjects Completed**

@@ -1,7 +1,7 @@
 Title: About
-Date: 2020-01-27
+Date: 2020-06-27
 
-I am a clinical trials data management specialist with over 11 years of experience. In this time I have implemented many high-value data management and reporting systems, using a wide range of technologies, working with diverse stakeholders.
+I am a clinical trials data management specialist with over 12 years of experience. In this time I have implemented many high-value data management and reporting systems, using a wide range of technologies, working with diverse stakeholders.
 
 In addition to technical expertise I have extensive domain knowledge of clinical research from working in coordination teams, developing components of research-specific software, and pursuing further studies in biostatistics.
 
@@ -16,8 +16,8 @@ I am familiar with the following technologies.
 
 - Programming languages:
     - Expert: SQL, Python
-    - Advanced: PL/PGSQL, Stata, bash, powershell, VBA/VBScript, XSLT
-    - Intermediate: R, Clojure, SAS, PHP, JavaScript, Java, C#, C
+    - Advanced: PL/PGSQL, Stata, SAS, bash, VBA/VBScript, XSLT
+    - Intermediate: R, Clojure, powershell, PHP, JavaScript, Java, C#, C
 - Database Systems:
     - Expert: PostgreSQL
     - Advanced: SQLite, MS Excel, MS Access 
