@@ -1,12 +1,12 @@
 Title: Work History
-Date: 2020-01-27
+Date: 2020-06-27
 
 
 ## Principal Consultant
 - Organisation: Lindsay Stevens Pty Ltd
 - Department: Consultant
 - Reporting to: Self
-- Duration: 2017-01 to present (3 years, 1 month)
+- Duration: 2017-01 to present (3 years, 6 months)
 
 
 **Responsibilities**
