@@ -6,7 +6,7 @@ Date: 2020-06-27
 
 - Institution: Macquarie University
 - Graduation: 2020
-- Grade: GPA 3.455 / 4, wAM 76.27
+- Grade: GPA 3.455 / 4, WAM 76.27
 
 
 **Subjects Completed**

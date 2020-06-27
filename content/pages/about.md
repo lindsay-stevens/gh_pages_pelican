@@ -3,11 +3,11 @@ Date: 2020-06-27
 
 I am a clinical trials data management specialist with over 12 years of experience. In this time I have implemented many high-value data management and reporting systems, using a wide range of technologies, working with diverse stakeholders.
 
-In addition to technical expertise I have extensive domain knowledge of clinical research from working in coordination teams, developing components of research-specific software, and pursuing further studies in biostatistics.
+In addition to technical expertise I have extensive domain knowledge of clinical research from working in coordination teams, developing components of research-specific software, and have completed a Master of Biostatistics.
 
-I am interested in helping researchers efficiently collect accurate and complete data, and to support both practicing clinicians and their patients in their decision-making processes through data systems, analysis, analytics, and visualisations.
+I am interested in helping researchers efficiently collect accurate and complete data, and supporting both practicing clinicians and their patients in their decision-making processes through data systems, analysis, analytics, and visualisations.
 
-I am motivated by the participants and clinical staff that collaborate to advance medical science through research. Looking forward, I am studying a Master of Biostatistics to further broaden the range of solutions and assistance I can offer.
+I am motivated by the participants and clinical staff that collaborate to advance medical science through research.
 
 
 ## Technical Skills
