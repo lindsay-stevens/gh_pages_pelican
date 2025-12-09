@@ -1,11 +1,11 @@
 Title: Consulting Services
-Date: 2024-07-29
+Date: 2025-12-09
 URL:
 save_as: index.html
 
 I provide data engineering and analysis services for clinical and health research. [Contact me](#contact-information) to discuss your needs.
 
-Since 2012, as a data engineer, I have built numerous validated and performant data solutions trusted by hundreds of projects at pharmaceutical companies, universities, and other organisations. Since 2022, as a biostatistician, I have delivered significant findings on pediatric type 1 diabetes outcomes using linked data.
+Since 2012, I have built numerous validated and performant data solutions trusted by hundreds of projects at pharmaceutical companies, universities, and other organisations. 
 
 With extensive experience on oncology, hepatitis C, and type 1 diabetes research teams, I understand the rigors of successful projects. I am motivated by participants, clinical staff, and researchers who collaborate to advance medical science, and I work hard to help researchers efficiently manage and understand data.
 

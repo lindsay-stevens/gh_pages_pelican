@@ -1,5 +1,5 @@
 Title: Work History
-Date: 2024-07-29
+Date: 2025-12-09
 
 
 ## Principal Consultant
@@ -25,13 +25,13 @@ Date: 2024-07-29
 - Organisation: University of Sydney
 - Department: MenziesKids, Faculty of Medicine and Health
 - Reporting to: Professor / Principal Investigator
-- Duration: 2022-02 to present
+- Duration: 2022-02 to 2024-11 (2 years 10 months)
 
 
 **Responsibilities**
 
-- Data analysis for a pediatric Type 1 Diabetes linked data project (CANDID)
-- Data analysis for a Type 1 Diabetes National Screening Pilot
+- Data analysis for a pediatric Type 1 Diabetes linked data project.
+- Data analysis for a Type 1 Diabetes National Screening Pilot.
 
 
 **Achievements**
@@ -132,7 +132,7 @@ Date: 2024-07-29
 **Responsibilities**
 
 - Assist the research project team with project and data management.
-- Data entry, filing, preparation of study binders or other materials.
+- Data entry, filing, preparation of study ISFs or other materials.
 
 
 **Achievements**
