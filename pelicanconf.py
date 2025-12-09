@@ -26,8 +26,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("github", "https://github.com/lindsay-stevens"),
-    ("linkedin", "https://www.linkedin.com/in/lindsay-stevens-83b17875"),
+    #("github", "https://github.com/lindsay-stevens"),
+    #("linkedin", "https://www.linkedin.com/in/lindsay-stevens-83b17875"),
 )
 
 DEFAULT_PAGINATION = False

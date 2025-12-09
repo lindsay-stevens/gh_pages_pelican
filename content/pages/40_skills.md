@@ -1,5 +1,5 @@
 Title: Skills
-Date: 2024-07-29
+Date: 2025-12-09
 
 
 ## Technical
@@ -7,11 +7,11 @@ Date: 2024-07-29
 I am familiar with the following technologies. I have developed, tested, deployed, and supported new and established applications.
 
 * Programming languages:
-    - Default: Python, SQL
-    - 2+ projects or occasional: R, Stata, SAS, PL/PGSQL, bash, VBA, XSLT
-    - One project or rarely: Clojure, R, powershell, PHP, JavaScript, Java, C#, C
+    - Primary: Python, SQL
+    - 2+ projects or occasional: Clojure, R, Stata, SAS, PL/PGSQL, bash, VBA, XSLT
+    - One project or rarely: Powershell, PHP, JavaScript, Java, C#, C
 * Database Systems:
-    - Default: PostgreSQL
+    - Primary: PostgreSQL
     - 2+ projects or occasional: SQLite, MS Excel, MS Access
     - One project or rarely: Microsoft SQL Server, Oracle DBMS
 * Other tools / systems:
