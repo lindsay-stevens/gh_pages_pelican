@@ -1,5 +1,5 @@
 Title: Work History
-Date: 2025-12-09
+Date: 2026-08-27
 
 
 ## Principal Consultant
@@ -36,6 +36,7 @@ Date: 2025-12-09
 
 **Achievements**
 
+- Eighteen-Year Incidence, Health Outcomes and Costs Associated With Diabetic Ketoacidosis at Diagnosis of Type 1 Diabetes in Children in NSW, Australia. [Link to paper](https://doi.org/10.1155/pedi/2550952).
 - Excess Mortality in an Inception Cohort of Childhood Diabetes Diagnosed 1990-2010. [Link to paper](https://doi.org/10.1155/2024/1844752).
 
 

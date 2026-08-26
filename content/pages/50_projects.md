@@ -1,5 +1,5 @@
 Title: Projects
-Date: 2025-12-09
+Date: 2026-08-27
 
 
 The following are examples projects where I've applied my skills to deliver solutions.

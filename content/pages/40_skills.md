@@ -1,5 +1,5 @@
 Title: Skills
-Date: 2025-12-09
+Date: 2026-08-27
 
 
 ## Technical
@@ -8,16 +8,16 @@ I am familiar with the following technologies. I have developed, tested, deploye
 
 * Programming languages:
     - Primary: Python, SQL
-    - 2+ projects or occasional: Clojure, R, Stata, SAS, PL/PGSQL, bash, VBA, XSLT
-    - One project or rarely: Powershell, PHP, JavaScript, Java, C#, C
+    - 2+ projects or occasional: bash, Clojure, R, SAS, Stata
+    - One project or rarely: PL/PGSQL, VBA, XSLT, Powershell, PHP, JavaScript, Java, C#, C
 * Database Systems:
     - Primary: PostgreSQL
-    - 2+ projects or occasional: SQLite, MS Excel, MS Access
-    - One project or rarely: Microsoft SQL Server, Oracle DBMS
+    - 2+ projects or occasional: SQLite, LibreOffice Calc / MS Excel
+    - One project or rarely:  MS Access, Microsoft SQL Server, Oracle DBMS
 * Other tools / systems:
     - Development: Git, Intellij IDEA / PyCharm, Notepad++, Metabase, RStudio, vim
-    - OS/Environments: Linux (CentOS/Rocky, Ubuntu), Windows, Android, Docker, Hyper-V, AWS
-    - Project Management: Jira, GitHub, Trello
+    - OS/Environments: Linux (Ubuntu, Rocky), Windows, Android, Podman/Docker, libvirt/Hyper-V, AWS
+    - Project Management: GitHub, Jira 
 
 [My GitHub profile](https://github.com/lindsay-stevens/) contains examples of projects where permission was given to share the code.
 
